@@ -1,8 +1,8 @@
 # Hi, I'm Gyan 👋  
 
-I'm a **Software Engineer** with over **3 years of experience**, currently working as a **Backend Developer**. I specialize in building robust and scalable web applications using **Python (Flask)** and **PostgreSQL**.  
+I'm a **Full Stack Developer** with 3+ years of experience. I specialize in building scalable web applications using Python (Flask) and PostgreSQL.
 
-I'm also exploring the **frontend world** with **Vue 3** and **Nuxt 3**, aiming to become a more versatile full-stack developer.  
+I’m also exploring the frontend with Vue 3 and Nuxt 3 through hands-on projects, aiming to grow as a well-rounded full stack developer.
 
 ## 🛠️ Tech Stack  
 - **Backend:** Python, Flask, PostgreSQL  
