@@ -1,28 +1,30 @@
 ## 👋 Hi, I'm Gyan
 
-I'm a **Backend Developer with 3+ years of experience** building scalable APIs, optimizing backend systems, and automating deployments. I specialize in **Python (Flask)**, **PostgreSQL**, and **cloud-native solutions on AWS**.
+I'm a **Backend Developer with 3.5+ years of experience** building **high-scale backend systems** and automating cloud deployments. I specialize in **Python (Flask)**, **PostgreSQL**, and **AWS cloud-native solutions** — delivering reliable systems that handle **200+ requests per second** with 99.95% uptime.
 
-Currently, I’m exploring frontend technologies like **Vue 3** and **Nuxt 3** to grow as a **well-rounded Full Stack Developer**.
+Currently, I’m expanding into **frontend technologies** like **Vue 3** and **Nuxt 3** to grow as a **well-rounded Full Stack Developer**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-* **Backend:** Python (Flask), PostgreSQL, Redis, Celery, REST APIs
+* **Backend:** Python (Flask), PostgreSQL, Redis, Celery, REST APIs, AWS Lambda, AWS SQS, AWS ElastiCache (Memcached)
+* **Search & NoSQL:** Elasticsearch
 * **Frontend:** Vue.js, Nuxt.js, Bootstrap
-* **DevOps & Cloud:** Docker, Bitbucket CI/CD, GitHub Actions, AWS (EC2, S3, IAM), Linux
-* **Tools & Concepts:** Git, Postman, Multithreading, Caching, Background Processing, Database Design
+* **DevOps & Cloud:** Docker, Bitbucket CI/CD, GitHub Actions, AWS (EC2, S3, IAM, RDS), Linux
+* **Tools & Concepts:** Git, Postman, Multithreading, Caching, Background Processing, Database Design, System Design for high-scale apps
 
 ---
 
 ### 💼 Experience
 
-* **Designed and deployed REST APIs** handling 10K+ monthly requests with <0.2% error rate.
-* **Optimized PostgreSQL** queries and database schemas, cutting report generation time by 35%.
-* **Integrated third-party APIs** automating ₦50K+ monthly transactions.
-* **Set up Celery with Redis** for background jobs using Docker on EC2.
-* **Built CI/CD pipelines** reducing deployment time from 30 minutes to under 5 minutes.
-* **Automated PDF report generation** saving 15+ hours per month.
+* **Designed & maintained backend systems** handling 200+ RPS with high availability.
+* **Optimized PostgreSQL** queries and database schemas, reducing query times by 35%.
+* **Integrated third-party APIs** automating large-scale financial transactions.
+* **Set up Celery with Redis** for distributed background jobs in Dockerized EC2 environments.
+* **Built & optimized CI/CD pipelines** reducing deployment time from 30 minutes to under 5 minutes.
+* **Automated PDF report generation** saving 15+ hours monthly.
+* **Implemented Elasticsearch** for scalable, low-latency search across millions of documents.
 
 ---
 
@@ -43,9 +45,9 @@ Currently, I’m exploring frontend technologies like **Vue 3** and **Nuxt 3** t
 
 ### 🎯 Current Goals
 
-* Deepen expertise in backend, cloud, and system design.
-* Build more impactful projects with real-world scalability.
-* Collaborate with like-minded developers and teams.
+* Master system design for large-scale distributed systems.
+* Build production-grade projects with real-world scalability.
+* Collaborate with high-performing engineering teams on challenging problems.
 
 ---
 
@@ -55,3 +57,5 @@ Currently, I’m exploring frontend technologies like **Vue 3** and **Nuxt 3** t
 * [GitHub](https://github.com/gyanprakashtiwari)
 * [LeetCode](https://leetcode.com/u/gyan_p_t/)
 * [Codeforces](https://codeforces.com/profile/gyan_p_t)
+
+---
